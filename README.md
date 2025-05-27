@@ -1,7 +1,7 @@
 # Apex-CKHC
 an attempt to put cachyos handheld in a incus system container
 
-not the full steamos but its steam deck ui on cachyos handheld in container
+its not the full steamos but its steam deck ui using cachyos handheld edition in a incus system container
 
 i will now back it up and upload 
 
